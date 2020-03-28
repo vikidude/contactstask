@@ -18,8 +18,8 @@ export default class App extends React.Component {
           id: 1,
           firstname: 'Vigneshwaran',
           lastname:'Eswaramoorthy',
-          company: 'Shinelogics',
-          email:'viki@gmail.com',
+          company: 'Accenture',
+          email:'vigneshwaransasurie@gmail.com',
           number:'9597299278',
           address:'Nallur Tiruppur'
         }, {
@@ -27,60 +27,60 @@ export default class App extends React.Component {
           firstname: 'Bhuvaneshwaran',
           lastname:'Eswaramoorthy',
           company: 'Naga Info solutions',
-          email:'viki@gmail.com',
+          email:'arunkumarjsrgi@gmail.com',
           number:'9597299278',
-          address:'Nallur Tiruppur'
+          address:'Naachipalayam Tiruppur'
         },
         {
           id: 2,
           firstname: 'Arunkumar',
           lastname:'Eswaramoorthy',
-          company: 'Shinelogics',
+          company: 'Infosys',
           email:'viki@gmail.com',
           number:'9597299278',
           address:'Nallur Tiruppur'
         }, {
           id: 3,
-          firstname: 'Renugadevi',
-          lastname:'Sathish',
-          company: 'Naga Info solutions',
-          email:'viki@gmail.com',
+          firstname: 'Manojkumar',
+          lastname:'Manikam',
+          company: 'Wipro',
+          email:'manojkumarmanik@gmail.com',
           number:'9597299278',
-          address:'Nallur Tiruppur'
+          address:'Koolipalayam,Tiruppur'
         },
         {
           id: 4,
-          firstname: 'Sathyapriya',
-          lastname:'Arunkumar',
-          company: 'Shinelogics',
-          email:'viki@gmail.com',
+          firstname: 'Ganesan',
+          lastname:'Marimuthu',
+          company: 'Capgemini',
+          email:'ganesanbe1234@gmail.com',
           number:'9597299278',
-          address:'Nallur Tiruppur'
+          address:'Vaikalmedu, Tiruppur'
         }, {
           id: 5,
-          firstname: 'Sathish',
-          lastname:'Gurusamy',
-          company: 'Naga Info solutions',
-          email:'viki@gmail.com',
+          firstname: 'Vigneshprabu',
+          lastname:'Ramasamy',
+          company: 'Cognizant',
+          email:'vpramasamy12@gmail.com',
           number:'9597299278',
-          address:'Nallur Tiruppur'
+          address:'Keezha theru, Bhavani'
         },
         {
           id: 6,
-          firstname: 'Kutty Dog',
-          lastname:'Arunkumar',
+          firstname: 'Murugan',
+          lastname:'Ponnusamy',
           company: 'Shinelogics',
-          email:'viki@gmail.com',
+          email:'murugan1520@gmail.com',
           number:'9597299278',
-          address:'Nallur Tiruppur'
+          address:'Metukadai,Thenkaasi'
         }, {
           id: 7,
-          firstname: 'Monish',
-          lastname:'Arunkumar',
-          company: 'Naga Info solutions',
-          email:'viki@gmail.com',
+          firstname: 'Dinesh',
+          lastname:'Arumugam',
+          company: 'The Hindu Tech',
+          email:'dinesharumugam123@gmail.com',
           number:'9597299278',
-          address:'Nallur Tiruppur'
+          address:'Kowndampalayam, Coimbatore'
         }
       ],
       usercount: 0,
