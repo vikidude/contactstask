@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/contactstask/static/css/main.901b9b6a.chunk.css",
+    "main.js": "/contactstask/static/js/main.c024a88a.chunk.js",
+    "main.js.map": "/contactstask/static/js/main.c024a88a.chunk.js.map",
+    "runtime-main.js": "/contactstask/static/js/runtime-main.5231a04b.js",
+    "runtime-main.js.map": "/contactstask/static/js/runtime-main.5231a04b.js.map",
+    "static/js/2.52587f89.chunk.js": "/contactstask/static/js/2.52587f89.chunk.js",
+    "static/js/2.52587f89.chunk.js.map": "/contactstask/static/js/2.52587f89.chunk.js.map",
+    "index.html": "/contactstask/index.html",
+    "precache-manifest.b0d8b7c11d515168a2260a2ae69bf2e2.js": "/contactstask/precache-manifest.b0d8b7c11d515168a2260a2ae69bf2e2.js",
+    "service-worker.js": "/contactstask/service-worker.js",
+    "static/css/main.901b9b6a.chunk.css.map": "/contactstask/static/css/main.901b9b6a.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5231a04b.js",
+    "static/js/2.52587f89.chunk.js",
+    "static/css/main.901b9b6a.chunk.css",
+    "static/js/main.c024a88a.chunk.js"
+  ]
+}
