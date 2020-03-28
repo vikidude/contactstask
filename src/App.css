@@ -1,0 +1,92 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+input[type=text], input[type=number] {
+  width: 100%;
+  border: 1px solid #b6c1c2;
+  display: inline-block;
+  padding: 10px 10px;
+  margin: 15px 0px;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit]{
+  background-color: #4CAF50;
+  border: 1px;
+  width:100px;
+  color:white;
+  padding: 14px 20px;
+  border-radius:4px;
+  cursor: pointer;
+}
+
+#btn{
+  text-align: center;
+}
+
+#firstdiv {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+  width:50%;
+  float: left;
+  margin:0px 20px;
+}
+
+#seconddiv{
+  display: inline-block;
+  margin:0px 10px;
+
+}
+
+input[type=radio]{
+  margin:10px;
+}
+
+label{
+  padding-right: 100%;
+}
+
+#users td, #users th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#users tr:nth-child(even){background-color: #f2f2f2;}
+
+#users tr:hover {background-color: #ddd;}
+
+#users th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
+
+#users {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
