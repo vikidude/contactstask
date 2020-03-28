@@ -2,7 +2,7 @@
   "name": "formdesign",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://vikidude.github.io/reactform_example/",
+  "homepage": "https://vikidude.github.io/contactstask/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "jquery": "^3.4.1",
